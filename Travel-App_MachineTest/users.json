@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$FUQqOUW1kk2TIh22FnL7aezVPIXk7Ku.Dvrhunqi8OOWLu7x87V4W",
+      "id": 1
+    },
+    {
+      "email": "test1@test.com",
+      "password": "$2a$10$2ayzn0lMBx99Yt82aRZfAeEG0zGSCS/BrqoqvDwthN0yL0IQxWPiG",
+      "id": 2
+    },
+    {
+      "email": "test3@test.com",
+      "password": "$2a$10$POVdIrEcwcjjlf8qazvk6Ow4pjmLiqoE404cqQqtMKLWqhWWoRt5q",
+      "id": 3
+    },
+    {
+      "email": "test4@test.com",
+      "password": "$2a$10$4N6x8I8.kSimbf0pw7YaUevUMvjne8BjaKGiG61s60JNEYQY84ayy",
+      "id": 4
+    },
+    {
+      "email": "test5@test.com",
+      "password": "$2a$10$g21G/WEHlJ4FBCD1Csx1XestFNaj81ax3Bg9s5qW.qP3nF5XHc.oi",
+      "id": 5
+    },
+    {
+      "email": "test6@test.com",
+      "password": "$2a$10$NYXX9k6.P2aSZXb9jHPiZ.cBE9rx.CiUmZYIvVjmiGmkpxeKjgrsm",
+      "id": 6
+    },
+    {
+      "email": "test7@test.com",
+      "password": "$2a$10$uMnvt.RxQOL7SqxbdRNUQ.BMK1LvW0SmsIkDrk53HQaVr642DGQgG",
+      "id": 7
+    }
+  ]
+}
